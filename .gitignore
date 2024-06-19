@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Acada.Business/bin/Debug/net6.0
+/Acada.Data/bin/Debug/net6.0
+/Acada.Data/obj
+/Acada.Domain/bin/Debug/net6.0
+/Acada.Domain/obj
+/AcadaWebAPI/bin/Debug/net6.0
+/AcadaWebAPI/obj
+/Acada.Business/obj
