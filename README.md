@@ -1,2 +1,0 @@
-# acada-backend
-Backend API
